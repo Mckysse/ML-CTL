@@ -1,7 +1,7 @@
 # ML-CTL
 code of our paper ML-CTL in ICASSP 2022
 
-Multi-Level Contrastive Learning for Cross-Lingual Alignment ([paper](https://arxiv.org/pdf/2202.13083.pdf)).
+Multi-Level Contrastive Learning for Cross-Lingual Alignment ([paper](https://ieeexplore.ieee.org/document/9747720))([arxiv](https://arxiv.org/pdf/2202.13083.pdf)).
 
 Accepted by 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022).
 
@@ -12,7 +12,7 @@ Accepted by 2022 IEEE International Conference on Acoustics, Speech and Signal P
 ## Citation
 If you use this code, please cite the paper below:
 
-[Multi-Level Contrastive Learning for Cross-Lingual Alignment](https://arxiv.org/pdf/2202.13083.pdf)
+[Multi-Level Contrastive Learning for Cross-Lingual Alignment](https://ieeexplore.ieee.org/document/9747720)
 
 
 
