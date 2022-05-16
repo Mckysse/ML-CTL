@@ -5,6 +5,9 @@ Multi-Level Contrastive Learning for Cross-Lingual Alignment ([paper](https://ar
 
 Accepted by 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022).
 
+## Overall Structure
+![Image text](https://github.com/Mckysse/ML-CTL/blob/main/Mlctl.png)
+
 
 ## Citation
 If you use this code, please cite the paper below:
